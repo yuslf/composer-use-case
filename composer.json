@@ -2,6 +2,6 @@
   "name": "yuslf/composer-use-case",
   "type": "composer-use-case",
   "require": {
-    "yuslf/composer-installer-plugin": "*"
+    "yuslf/composer-installer-plugin": "v0.0.1-alpha"
   }
 }
