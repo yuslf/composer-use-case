@@ -1,5 +1,5 @@
 <?php
-namespace yuslf\Composer;
+namespace yuslf\ComposerUseCase;
 
 class UseCase
 {
