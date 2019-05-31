@@ -1,7 +1,13 @@
 {
   "name": "yuslf/composer-use-case",
   "type": "composer-use-case",
+  "license": "MIT",
   "require": {
     "yuslf/composer-installer-plugin": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "yuslf\\ComposerUseCase\\": "src/"
+    }
   }
 }
