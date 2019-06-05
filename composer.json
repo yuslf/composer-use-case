@@ -4,7 +4,7 @@
   "license": "MIT",
   "require": {
     "php": ">=5.4",
-    "jukylin/jaeger-php": "v2.0.5-beta2",
+    "jukylin/jaeger-php": "v2.0.5-beta",
     "yuslf/composer-installer-plugin": "v0.0.1"
   }
 }
