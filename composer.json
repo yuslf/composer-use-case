@@ -4,8 +4,7 @@
   "license": "MIT",
   "require": {
     "php": ">=5.4",
-    "opentracing/opentracing": "1.0.0-beta2",
-    "yuslf/jaeger-php": "v2.0.5-beta2",
+    "jukylin/jaeger-php": "v2.0.5-beta2",
     "yuslf/composer-installer-plugin": "v0.0.1"
   }
 }
